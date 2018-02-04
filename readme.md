@@ -1,3 +1,6 @@
+# About this version
+This version of the script works with Python 3+, as opposed to the original which only works with Python version 2
+
 # About Duplicate Files.
 This script will scan a directory tree looking for duplicate files, it uses a two stage approach of comparing file sizes and then hashes of file contents to find duplicates.
 
